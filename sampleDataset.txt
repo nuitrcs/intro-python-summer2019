@@ -1,0 +1,426 @@
+Countries and areas	Year	Short Source	Long Source	National	Gender		Area		WIQ				
+					Male	Female	Urban	Rural	Poorest	Second	Middle	Fourth	Richest
+Afghanistan	2011	MICS 2010-2011	Multiple Indicator Cluster Survey 2010-2011	 61 	 62 	 59 	 67 	 59 	 46 	 60 	 66 	 64 	 66 
+Afghanistan	2015	DHS 2015	Demographic and Health Survey 2015	 62 	 62 	 60 	 65 	 60 	 53 	 66 	 56 	 67 	 70 
+Albania	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 83 									
+Albania	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 45 	 32 	 61 	 28 	 53 	 56 	 56 	 25 	 36 	 30 
+Albania	2009	DHS 2008-2009	Demographic and Health Survey 2008-2009	 70 									
+Algeria	2002	EASF 2002	Algerian Family Health Survey 2002	 52 									
+Algeria	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 53 	 54 	 51 	 56 	 49 	 38 	 57 	 58 	 51 	 68 
+Algeria	2013	MICS 2012-2013	Multiple Indicator Cluster Survey 2012-2013	 66 	 67 	 66 	 69 	 63 	 60 	 65 	 68 	 73 	 73 
+Angola	2016	DHS 2015-2016	Demographic and Health Survey 2015-2016	 49 	 51 	 47 	 60 	 32 	 25 	 45 	 47 		
+Argentina	2012	MICS 2011-2012	Multiple Indicator Cluster Survey 2011-2012	 94 	 95 	 93 			 92 	 97 	 93 	 96 	 96 
+Armenia	2000	DHS 2000	Demographic and Health Survey 2000	 26 	 24 	 29 	 28 	 24 					
+Armenia	2005	DHS 2005	Demographic and Health Survey 2005	 36 	 52 	 24 	 30 	 46 					
+Armenia	2010	DHS 2010	Demographic and Health Survey 2010	 57 									
+Azerbaijan	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 36 	 30 	 42 	 29 	 38 	 35 				
+Bangladesh	1994	DHS 1993-1994	Demographic and Health Survey 1993-1994	 28 									
+Bangladesh	1997	DHS 1996-1997	Demographic and Health Survey 1996-1997	 33 									
+Bangladesh	2000	DHS 1999-2000	Demographic and Health Survey 1999-2000	 27 	 29 	 25 	 48 	 24 	 23 	 21 	 23 	 29 	 55 
+Bangladesh	2004	DHS 2004	Demographic and Health Survey 2004	 20 	 23 	 17 	 35 	 17 	 11 	 16 	 19 	 27 	 45 
+Bangladesh	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 30 	 30 	 30 	 44 	 26 	 17 	 26 	 28 	 42 	 56 
+Bangladesh	2007	DHS 2007	Demographic and Health Survey 2007	 37 	 41 	 33 	 57 	 34 	 24 	 28 	 43 	 47 	 73 
+Bangladesh	2011	DHS 2011	Demographic and Health Survey 2011	 35 	 40 	 29 	 54 	 31 	 25 	 30 	 29 	 46 	 58 
+Bangladesh	2013	MICS 2012-2013	Multiple Indicator Cluster Survey 2012-2013	 36 	 39 	 32 	 44 	 34 	 32 	 34 	 37 	 38 	 44 
+Bangladesh	2014	DHS 2014	Demographic and Health Survey 2014	 42 	 39 	 47 	 52 	 39 	 38 	 44 	 37 	 39 	 58 
+Belarus	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 90 	 90 	 89 	 94 	 78 	 79 	 81 	 95 	 93 	 93 
+Belarus	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 93 	 92 	 95 	 96 						
+Belize	1999	Other NS 1999	Other NS 1999	 66 									
+Belize	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 71 	 70 	 72 	 69 	 73 					
+Belize	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 82 				 78 					
+Belize	2016	MICS 2015-2016	Multiple Indicator Cluster Survey 2015-2016	 67 				 76 					
+Benin	1996	DHS 1996	Demographic and Health Survey 1996	 32 									
+Benin	2001	DHS 1993	Demographic and Health Survey 2001	 35 	 36 	 34 	 39 	 33 					
+Benin	2001	DHS 2001	Demographic and Health Survey 2001	 35 	 36 	 34 	 39 	 33 					
+Benin	2006	DHS 2006	Demographic and Health Survey 2006	 36 	 34 	 38 	 36 	 36 					
+Benin	2012	DHS 2011-2012	Demographic and Health Survey 2011-2012	 31 	 24 	 39 	 29 	 33 					
+Benin	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 23 	 21 	 25 	 19 	 26 	 19 	 31 	 29 	 22 	 13 
+Bhutan	2010	NUCS 2010	National Health Survey Report 2010	 74 	 76 	 72 	 74 	 74 	 64 	 81 	 78 	 77 	 82 
+Bolivia (Plurinational State of)	1994	DHS 1994	Demographic and Health Survey 1994	 40 									
+Bolivia (Plurinational State of)	1998	DHS 1998	Demographic and Health Survey 1998	 43 									
+Bolivia (Plurinational State of)	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 54 	 54 	 53 	 61 	 42 					
+Bolivia (Plurinational State of)	2003	DHS 2003	Demographic and Health Survey 2003	 52 	 54 	 49 	 56 	 45 	 41 	 54 	 52 	 51 	 67 
+Bolivia (Plurinational State of)	2008	DHS 2008	Demographic and Health Survey 2008	 51 	 50 	 52 	 60 	 43 	 40 	 49 	 54 	 55 	 70 
+Bolivia (Plurinational State of)	2009	Other NS 2009	Anuario Estadístico 2012	 66 			 70 	 61 					
+Bolivia (Plurinational State of)	2011	Other NS 2011	Anuario Estadístico 2012	 62 			 64 	 57 					
+Bosnia and Herzegovina	2000	Other NS 2000	BiH Agency for Statistics 2009	 80 									
+Bosnia and Herzegovina	2006	MICS 2005-2006	Multiple Indicator Cluster Survey 2005-2006	 91 	 92 	 91 	 95 	 90 	 97 	 83 	 86 	 97 	 96 
+Bosnia and Herzegovina	2012	MICS 2011-2012	Multiple Indicator Cluster Survey 2011-2012	 87 									
+Botswana	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 14 	 16 	 13 	 15 	 13 	 11 	 16 	 15 	 13 	 18 
+Brazil	1996	DHS 1996	Demographic and Health Survey 1996	 46 	 47 	 45 	 50 	 34 					
+Brazil	2006	MoH 2006	MoH PNDS 2006	 50 	 46 	 53 	 50 	 50 					
+Burkina Faso	1993	DHS 1992-1993	Demographic and Health Survey 1992-1993	 19 									
+Burkina Faso	1999	DHS 1998-1999	Demographic and Health Survey 1998-1999	 22 									
+Burkina Faso	2003	DHS 2003	Demographic and Health Survey 2003	 36 	 36 	 36 	 65 	 32 					
+Burkina Faso	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 39 	 42 	 34 	 27 	 40 	 45 	 35 	 33 	 42 	 29 
+Burkina Faso	2010	DHS 2010	Demographic and Health Survey 2010	 56 	 52 	 62 	 65 	 53 		 43 	 66 	 56 	 70 
+Burkina Faso	2015	DHS (Prelim) 2015	Demographic and Health Survey (Preliminary)2015	 52 			 65 	 47 	 44 	 48 	 45 	 64 	 63 
+Burundi	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 40 	 40 	 39 	 69 	 39 					
+Burundi	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 38 	 36 	 39 	 47 	 38 	 41 	 36 	 31 	 39 	 45 
+Burundi	2010	DHS 2010	Demographic and Health Survey 2010	 55 	 56 	 54 	 60 	 54 	 52 	 53 	 59 	 53 	 58 
+Burundi	2012	Other NS 2012	Enquete ménages pour le suivi ... 2012	 54 	 59 	 50 	 47 	 55 					
+Burundi	2017	DHS 2016-2017	Demographic and Health Survey 2016-2017	 63 	 66 	 59 	 68 	 62 	 62 	 60 	 56 	 72 	 67 
+Cambodia	2000	DHS 2000	Demographic and Health Survey 2000	 37 	 40 	 33 	 47 	 35 					
+Cambodia	2005	DHS 2005	Demographic and Health Survey 2005	 48 	 48 	 49 	 49 	 48 	 41 	 42 	 60 	 62 	
+Cambodia	2010	DHS 2010	Demographic and Health Survey 2010	 64 	 63 	 66 	 68 	 64 	 61 	 64 	 75 	 56 	 65 
+Cambodia	2014	DHS 2014	Demographic and Health Survey 2014	 69 	 62 	 76 	 70 	 69 	 68 	 65 	 78 	 67 	 67 
+Cameroon	1991	DHS 1991	Demographic and Health Survey 1991	 44 									
+Cameroon	1998	DHS 1998	Demographic and Health Survey 1998	 34 									
+Cameroon	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 25 	 27 	 22 	 48 	 19 					
+Cameroon	2004	DHS 2004	Demographic and Health Survey 2004	 40 	 41 	 39 	 46 	 35 	 29 	 34 	 42 	 45 	 52 
+Cameroon	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 35 	 37 	 32 	 40 	 32 	 20 	 38 	 43 	 40 	 50 
+Cameroon	2011	DHS 2011	Demographic and Health Survey 2011	 30 	 32 	 28 	 36 	 26 	 9 	 38 	 41 	 35 	 39 
+Cameroon	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 28 	 28 	 29 	 25 	 30 	 31 	 24 	 28 	 34 	
+Central African Republic	1995	DHS 1994-1995	Demographic and Health Survey 1994-1995	 41 									
+Central African Republic	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 32 	 32 	 32 	 42 	 27 					
+Central African Republic	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 32 	 30 	 34 	 37 	 28 	 25 	 23 	 31 	 40 	 42 
+Central African Republic	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 30 	 28 	 32 	 42 	 24 	 20 	 20 	 25 	 40 	 56 
+Chad	1997	DHS 1996-1997	Demographic and Health Survey 1996-1997	 19 									
+Chad	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 22 	 22 	 21 							
+Chad	2004	DHS 2004	Demographic and Health Survey 2004	 12 	 13 	 11 	 41 	 4 	 4 	 3 		 8 	 34 
+Chad	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 26 	 25 	 27 	 51 	 20 	 14 	 17 	 21 	 31 	 50 
+Chad	2015	DHS 2014-2015	Demographic and Health Survey 2014-2015	 26 	 27 	 25 	 40 	 22 	 16 	 21 	 24 	 31 	 44 
+Colombia	1990	DHS 1990	Demographic and Health Survey 1990	 45 									
+Colombia	1995	DHS 1995	Demographic and Health Survey 1995	 49 									
+Colombia	2000	DHS 2000	Demographic and Health Survey 2000	 51 			 58 	 36 					
+Colombia	2005	DHS 2005	Demographic and Health Survey 2005	 62 	 59 	 64 	 66 	 52 	 49 	 63 	 63 	 70 	 72 
+Colombia	2010	DHS 2010	Demographic and Health Survey 2010	 64 	 65 	 63 	 67 	 57 	 54 	 68 	 67 	 73 	 64 
+Comoros	1996	DHS 1996	Demographic and Health Survey 1996	 53 									
+Comoros	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 56 	 56 	 57 	 71 	 53 					
+Comoros	2012	DHS-MICS 2012	Demographic and Health Survey, Multiple Indicator Cluster Survey 2012	 38 	 43 	 32 	 47 	 34 					
+Congo	2005	ECOM 2005	Enquête Congolaise auprès des Ménages pour l’évaluation de la pauvreté 2005	 48 	 47 	 48 	 57 	 37 	 35 	 47 	 50 	 51 	 57 
+Congo	2012	DHS 2011-2012	Demographic and Health Survey 2011-2012	 52 	 47 	 57 	 57 	 44 	 41 	 49 	 41 	 66 	 71 
+Congo	2015	MICS 2014-2015	Multiple Indicator Cluster Survey 2014-2015	 28 			 32 	 21 	 18 	 32 	 30 	 29 	 34 
+Costa Rica	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 77 	 72 	 84 	 70 	 84 	 80 				
+Côte d'Ivoire	1994	DHS 1994	Demographic and Health Survey 1994	 39 									
+Côte d'Ivoire	1999	DHS 1998-1999	Demographic and Health Survey 1998-1999	 35 									
+Côte d'Ivoire	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 38 	 37 	 38 	 46 	 34 	 35 	 27 	 34 	 57 	 58 
+Côte d'Ivoire	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 35 	 30 	 41 	 57 	 27 	 21 	 32 	 41 	 49 	 71 
+Côte d'Ivoire	2012	DHS 2011-2012	Demographic and Health Survey 2011-2012	 38 	 35 	 41 	 49 	 31 		 30 	 50 	 48 	
+Côte d'Ivoire	2016	MICS 2016	Multiple Indicator Cluster Survey 2016	 44 	 47 	 39 		 41 					
+Cuba	2011	MICS 2010-2011	Multiple Indicator Cluster Survey 2010-2011	 97 	 95 	 98 	 95 	 100 					
+Cuba	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 93 	 94 	 90 	 92 	 94 					
+Democratic People's Republic of Korea	2004	Other NS 2004	Other NS 2004	 93 									
+Democratic People's Republic of Korea	2009	MICS 2009	Multiple Indicator Cluster Survey 2009	 80 	 78 	 82 	 85 	 74 					
+Democratic Republic of the Congo	2001	MICS 2001	Multiple Indicator Cluster Survey 2001	 36 	 35 	 36 	 46 	 32 	 32 	 35 	 33 	 37 	 48 
+Democratic Republic of the Congo	2007	DHS 2007	Demographic and Health Survey 2007	 42 	 45 	 39 	 45 	 40 	 39 	 43 	 36 	 43 	 54 
+Democratic Republic of the Congo	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 40 	 37 	 45 	 41 	 40 	 32 	 48 	 39 	 40 	 45 
+Democratic Republic of the Congo	2014	DHS 2013-2014	Demographic and Health Survey 2013-2014	 42 	 44 	 39 	 39 	 43 	 37 	 40 	 49 	 39 	 44 
+Djibouti	2002	Other NS 2002	Other NS 2002	 62 	 61 	 64 	 71 	 14 					
+Djibouti	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 62 	 61 	 63 	 62 	 50 					
+Djibouti	2012	EDSF-PAPFAM 2012	Deuxieme Enquete Djiboutienne sur la Sante de la Famille 2012	 94 									
+Dominican Republic	1991	DHS 1991	Demographic and Health Survey 1991	 41 									
+Dominican Republic	1996	DHS 1996	Demographic and Health Survey 1996	 48 									
+Dominican Republic	1999	DHS 1999	Demographic and Health Survey 1999	 61 									
+Dominican Republic	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 68 									
+Dominican Republic	2002	DHS 2002	Demographic and Health Survey 2002	 64 	 64 	 63 	 64 	 63 					
+Dominican Republic	2007	DHS 2007	Demographic and Health Survey 2007	 70 	 72 	 67 	 70 	 70 	 65 	 72 	 70 	 74 	
+Dominican Republic	2010	ENHOGAR 2009-2010	Encuesta Nacional de Hogares de Propósitos Múltiples 2009-2010	 68 	 68 	 69 	 68 	 69 	 64 	 81 	 57 	 81 	 56 
+Dominican Republic	2013	DHS 2013	Demographic and Health Survey 2013	 66 	 64 	 69 	 64 	 71 	 74 	 76 	 57 	 62 	
+Dominican Republic	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 73 	 75 	 71 	 73 	 74 	 73 	 74 	 73 	 73 	 77 
+Egypt	1992	DHS 1992	Demographic and Health Survey 1992	 59 									
+Egypt	1995	DHS 1995	Demographic and Health Survey 1995	 62 									
+Egypt	2000	DHS 2000	Demographic and Health Survey 2000	 66 	 68 	 64 	 77 	 61 					
+Egypt	2003	DHS 2003	Demographic and Health Survey 2003	 70 	 76 	 64 	 68 	 72 	 58 	 69 	 73 	 76 	 76 
+Egypt	2005	DHS 2005	Demographic and Health Survey 2005	 63 	 66 	 61 	 67 	 61 	 58 	 66 	 60 	 66 	 69 
+Egypt	2008	DHS 2008	Demographic and Health Survey 2008	 73 	 77 	 68 	 78 	 69 	 70 	 71 	 66 	 79 	 81 
+Egypt	2014	DHS 2014	Demographic and Health Survey 2014	 68 	 70 	 66 	 69 	 68 	 64 	 63 	 73 	 72 	 67 
+El Salvador	2003	Other NS 2002-2003	Other NS 2002-2003	 62 									
+El Salvador	2008	Other NS 2003-2008	Other NS 2003-2008	 67 									
+El Salvador	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 80 	 79 	 81 	 81 	 78 	 74 	 76 	 81 	 82 	 92 
+Equatorial Guinea	2011	DHS 2011	Demographic and Health Survey 2011	 54 	 57 	 50 	 63 	 48 					 71 
+Eritrea	2002	DHS 2002	Demographic and Health Survey 2002	 44 	 44 	 43 	 57 	 40 	 33 	 42 	 43 	 50 	 63 
+Eritrea	2010	PHS 2010	Population and Health Survey 2010	 45 	 46 	 43 	 57 	 41 	 30 	 36 	 46 	 64 	 64 
+Ethiopia	2000	DHS 2000	Demographic and Health Survey 2000	 16 	 17 	 14 	 41 	 14 					
+Ethiopia	2005	DHS 2005	Demographic and Health Survey 2005	 19 	 19 	 19 	 46 	 17 	 19 	 12 	 21 	 13 	 33 
+Ethiopia	2011	DHS 2011	Demographic and Health Survey 2011	 27 	 25 	 29 	 47 	 25 	 16 	 25 	 22 	 33 	 62 
+Ethiopia	2016	DHS 2016	Demographic and Health Survey 2016	 31 	 32 	 28 	 59 	 29 	 28 	 23 	 25 	 38 	 44 
+Gabon	2000	DHS 2000	Demographic and Health Survey 2000	 48 	 51 	 44 	 52 	 34 					
+Gabon	2012	DHS 2012	Demographic and Health Survey 2012	 68 	 72 	 62 	 71 	 52 	 48 	 78 	 66 		
+Gambia	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 75 	 71 	 79 	 93 	 70 					
+Gambia	2006	MICS 2005-2006	Multiple Indicator Cluster Survey 2005-2006	 69 	 67 	 71 	 64 	 72 	 68 	 74 	 71 	 62 	 68 
+Gambia	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 69 	 70 	 68 	 64 	 74 	 64 	 80 	 74 	 62 	 66 
+Gambia	2013	DHS 2013	Demographic and Health Survey 2013	 68 	 72 	 63 	 68 	 68 	 70 	 70 	 71 	 62 	 67 
+Georgia	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 99 									
+Georgia	2005	Other NS 2015	WMS 2015	 74 									
+Ghana	1993	DHS 1993	Demographic and Health Survey 1993	 43 									
+Ghana	1998	DHS 1998	Demographic and Health Survey 1998	 26 	 28 	 25 	 37 	 24 					
+Ghana	2003	DHS 2003	Demographic and Health Survey 2003	 44 	 44 	 44 	 53 	 40 	 31 	 40 	 47 	 51 	
+Ghana	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 34 	 34 	 33 	 25 	 37 					
+Ghana	2008	DHS 2008	Demographic and Health Survey 2008	 51 	 50 	 52 		 50 					
+Ghana	2011	MICS 2003	Multiple Indicator Cluster Survey 2011	 41 	 49 	 34 	 61 	 34 	 34 	 41 	 42 	 54 	 49 
+Ghana	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 41 	 49 	 34 	 61 	 34 	 34 	 41 	 42 	 54 	 49 
+Ghana	2014	DHS 2014	Demographic and Health Survey 2014	 56 	 54 	 59 	 51 	 59 	 55 	 53 	 62 	 57 	 54 
+Guatemala	1995	DHS 1995	Demographic and Health Survey 1995	 41 			 56 	 32 					
+Guatemala	1999	DHS 1998-1999	Demographic and Health Survey 1998-1999	 37 	 38 	 36 	 46 	 33 					
+Guatemala	2002	Other NS 2002	Other NS 2002	 64 									
+Guatemala	2015	DHS 2014-2015	Demographic and Health Survey 2014-2015	 52 	 50 	 54 	 53 	 52 	 47 	 50 	 53 	 55 	 68 
+Guinea	1999	DHS 1999	Demographic and Health Survey 1999	 39 	 39 	 39 	 61 	 33 					
+Guinea	2003	MICS 2003	Multiple Indicator Cluster Survey 2003	 33 	 32 	 34 	 43 	 29 	 35 	 30 	 27 	 33 	 43 
+Guinea	2005	DHS 2005	Demographic and Health Survey 2005	 42 	 42 	 42 	 58 	 38 	 30 	 43 	 42 	 46 	 59 
+Guinea	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 37 	 37 	 37 	 69 	 29 	 15 	 31 	 34 	 48 	 78 
+Guinea	2016	MICS 2016	Multiple Indicator Cluster Survey 2016	 30 	 28 	 31 		 32 					
+Guinea-Bissau	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 64 	 64 	 65 	 76 	 57 	 52 	 66 	 55 	 68 	 80 
+Guinea-Bissau	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 57 	 52 	 61 	 73 	 45 	 32 	 49 	 46 	 72 	 82 
+Guinea-Bissau	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 52 	 53 	 52 	 60 	 46 		 50 		 65 	
+Guinea-Bissau	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 34 	 38 	 31 	 33 	 36 				 33 	
+Guyana	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 78 	 72 	 85 	 86 	 75 					
+Guyana	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 64 	 62 	 68 	 60 	 66 					
+Guyana	2009	DHS 2009	Demographic and Health Survey 2009	 65 									
+Guyana	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 84 	 77 			 87 					
+Haiti	1995	DHS 1994-1995	Demographic and Health Survey 1994-1995	 17 									
+Haiti	2000	DHS 2000	Demographic and Health Survey 2000	 26 	 25 	 27 	 32 	 24 					
+Haiti	2006	DHS 2005-2006	Demographic and Health Survey 2005-2006	 31 									
+Haiti	2012	DHS 2012	Demographic and Health Survey 2012	 38 	 39 	 36 	 44 	 34 	 23 	 32 	 36 	 52 	 51 
+Haiti	2017	DHS (Prelim) 2016-2017	Demographic and Health Survey (Preliminary)2016-2017	 78 			 86 	 76 					
+Honduras	2006	DHS 2005-2006	Demographic and Health Survey 2005-2006	 56 	 58 	 54 	 67 	 49 	 46 	 53 	 56 	 69 	 74 
+Honduras	2012	DHS 2011-2012	Demographic and Health Survey 2011-2012	 64 	 64 	 64 	 67 	 61 	 61 	 60 	 67 	 65 	 73 
+India	1993	NFHS 1992-1993	National Family Health Survey 1992-1993	 69 									
+India	1999	NFHS 1998-1999	National Family Health Survey 1998-1999	 67 	 69 	 63 	 78 	 64 					
+India	2006	NFHS 2005-2006	National Family Health Survey 2005-2006	 69 	 72 	 66 	 78 	 66 	 61 	 67 	 70 	 77 	 80 
+India	2014	RSOC 2013-2014	Rapid Survey on Children 2013-2014	 77 	 78 	 75 	 80 	 76 	 74 	 73 	 77 	 80 	 83 
+India	2016	NFHS 2015-2016	National Family Health Survey 2015-2016	 73 			 80 	 71 					
+Indonesia	1991	DHS 1991	Demographic and Health Survey 1991	 64 			 76 	 60 					
+Indonesia	1994	DHS 1994	Demographic and Health Survey 1994	 63 									
+Indonesia	1997	DHS 1997	Demographic and Health Survey 1997	 69 									
+Indonesia	2003	DHS 2002-2003	Demographic and Health Survey 2002-2003	 61 	 60 	 62 	 68 	 55 					
+Indonesia	2007	DHS 2007	Demographic and Health Survey 2007	 66 	 72 	 63 	 67 	 65 	 54 	 62 	 75 	 74 	 77 
+Indonesia	2012	DHS 2012	Demographic and Health Survey 2012	 75 	 76 	 75 	 75 	 76 	 61 	 84 	 80 	 87 	 71 
+Iran (Islamic Republic of)	2000	DHS 2000	Demographic and Health Survey 2000	 93 									
+Iran (Islamic Republic of)	2010	Other NS 2011	IrMIDHS (Prelim) 2010-2011	 76 	 76 	 76 	 79 	 72 					
+Iraq	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 76 									
+Iraq	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 82 	 81 	 84 	 84 	 79 					
+Iraq	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 74 	 77 	 72 	 77 	 71 	 70 	 74 	 75 	 79 	 78 
+Jamaica	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 39 									
+Jamaica	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 75 	 73 	 77 	 73 	 76 					
+Jamaica	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 82 			 83 	 82 					
+Jordan	1997	DHS 1997	Demographic and Health Survey 1997	 76 									
+Jordan	2002	DHS 2002	Demographic and Health Survey 2002	 78 	 82 	 73 	 79 	 77 					
+Jordan	2007	DHS 2007	Demographic and Health Survey 2007	 75 	 79 	 70 	 74 	 83 	 66 	 80 	 85 	 67 	
+Jordan	2012	DHS 2012	Demographic and Health Survey 2012	 77 	 79 	 74 	 76 	 84 	 80 	 74 	 84 	 72 	 74 
+Kazakhstan	1995	DHS 1995	Demographic and Health Survey 1995	 48 									
+Kazakhstan	1999	DHS 1999	Demographic and Health Survey 1999	 48 									
+Kazakhstan	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 71 									
+Kazakhstan	2011	MICS 2010-2011	Multiple Indicator Cluster Survey 2010-2011	 81 	 83 	 80 	 87 	 76 					
+Kenya	1993	DHS 1993	Demographic and Health Survey 1993	 52 									
+Kenya	1998	DHS 1998	Demographic and Health Survey 1998	 57 	 56 	 59 	 74 	 54 					
+Kenya	2003	DHS 2003	Demographic and Health Survey 2003	 49 	 50 	 48 	 63 	 46 					
+Kenya	2009	DHS 2008-2009	Demographic and Health Survey 2008-2009	 56 	 57 	 54 	 66 	 54 	 57 	 48 	 63 	 52 	 63 
+Kenya	2014	DHS 2014	Demographic and Health Survey 2014	 66 	 68 	 64 	 64 	 67 	 63 	 67 	 65 	 63 	 74 
+Kiribati	2009	DHS 2009	Demographic and Health Survey 2009	 81 				 82 					
+Kyrgyzstan	1997	DHS 1997	Demographic and Health Survey 1997	 48 	 49 	 46 	 91 	 42 					
+Kyrgyzstan	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 62 	 63 	 61 	 68 	 58 		 66 	 57 	 36 	 74 
+Kyrgyzstan	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 60 		 63 		 59 					
+Lao People's Democratic Republic	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 36 	 36 	 37 	 55 	 32 					
+Lao People's Democratic Republic	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 32 	 36 	 28 		 30 	 28 				
+Lao People's Democratic Republic	2012	DHS-LSIS-MICS 2011-2012	Demographic and Health Survey, Lao Social Indicator Survey, Multiple Indicator Cluster Survey 2011-2012	 54 	 53 	 56 	 79 	 51 	 42 	 49 	 64 		
+Lebanon	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 74 	 72 	 76 							
+Lesotho	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 49 	 49 	 50 	 52 	 48 	 43 	 40 	 48 	 60 	 60 
+Lesotho	2004	DHS 2004	Demographic and Health Survey 2004	 59 	 58 	 60 	 61 	 59 	 46 	 55 	 65 	 70 	 73 
+Lesotho	2009	DHS 2009	Demographic and Health Survey 2009	 66 	 70 	 62 		 65 	 58 	 74 			
+Lesotho	2014	DHS 2014	Demographic and Health Survey 2014	 63 	 61 	 66 		 63 					
+Liberia	2007	DHS 2007	Demographic and Health Survey 2007	 62 	 64 	 61 	 73 	 59 	 59 	 46 	 72 	 62 	
+Liberia	2013	DHS 2013	Demographic and Health Survey 2013	 51 	 57 	 44 	 49 	 52 	 48 	 56 	 60 		
+Madagascar	1992	DHS 1992	Demographic and Health Survey 1992	 42 									
+Madagascar	1997	DHS 1997	Demographic and Health Survey 1997	 37 									
+Madagascar	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 47 	 50 	 44 			 45 	 44 	 50 	 51 	 63 
+Madagascar	2004	DHS 2003-2004	Demographic and Health Survey 2003-2004	 48 	 50 	 47 	 62 	 45 	 50 	 44 	 38 	 48 	 66 
+Madagascar	2009	DHS 2008-2009	Demographic and Health Survey 2008-2009	 42 	 44 	 40 	 59 	 39 	 33 	 29 	 39 	 52 	 68 
+Madagascar	2013	ENSOMD 2012-2013	L’Enquête Nationale sur le Suivi des indicateurs des Objectifs du Millénaire pour le Développement  2012-2013	 41 	 41 	 40 	 60 	 38 	 37 	 35 	 37 	 44 	 58 
+Malawi	1992	DHS 1992	Demographic and Health Survey 1992	 54 	 53 	 55 	 57 	 53 					
+Malawi	2000	DHS 2000	Demographic and Health Survey 2000	 27 	 26 	 27 	 48 	 25 					
+Malawi	2004	DHS 2004	Demographic and Health Survey 2004	 37 	 37 	 36 	 47 	 36 	 30 	 34 	 37 	 42 	 46 
+Malawi	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 52 	 51 	 53 	 75 	 48 	 51 	 44 	 57 	 45 	 65 
+Malawi	2010	DHS 2010	Demographic and Health Survey 2010	 70 	 71 	 69 	 67 	 71 	 62 	 67 	 77 	 72 	 75 
+Malawi	2014	MICS 2013-2014	Multiple Indicator Cluster Survey 2013-2014	 68 	 69 	 67 	 60 	 69 	 61 	 69 	 73 	 70 	 71 
+Malawi	2016	DHS 2015-2016	Demographic and Health Survey 2015-2016	 78 	 77 	 79 	 84 	 77 	 78 	 77 	 77 	 79 	 77 
+Maldives	2001	MICS 2001	Multiple Indicator Cluster Survey 2001	 22 	 23 	 22 							
+Mali	1996	DHS 1995-1996	Demographic and Health Survey 1995-1996	 22 	 24 	 20 	 39 	 17 					
+Mali	2001	DHS 2001	Demographic and Health Survey 2001	 36 	 38 	 33 	 68 	 26 					
+Mali	2006	DHS 2006	Demographic and Health Survey 2006	 38 	 39 	 37 	 51 	 34 	 28 	 32 	 30 	 43 	 60 
+Mali	2010	MICS 2009-2010	Multiple Indicator Cluster Survey 2009-2010	 56 	 54 	 58 	 71 	 51 	 43 	 50 	 48 	 59 	 87 
+Mali	2015	MICS 2015	Multiple Indicator Cluster Survey 2015	 23 	 23 	 23 	 9 	 26 	 19 	 37 	 26 	 19 	 12 
+Mauritania	2001	DHS 2000-2001	Demographic and Health Survey 2000-2001	 41 	 43 	 38 	 56 	 26 					
+Mauritania	2007	MICS 2007	Multiple Indicator Cluster Survey 2007	 45 	 43 	 47 	 53 	 36 	 33 	 33 	 36 	 55 	 64 
+Mauritania	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 43 	 41 	 45 	 63 	 33 	 25 	 38 	 47 	 71 	 51 
+Mauritania	2015	MICS 2015	Multiple Indicator Cluster Survey 2015	 34 	 34 	 34 	 46 	 24 	 18 	 28 	 32 	 41 	 48 
+Mexico	2015	MICS 2015	Multiple Indicator Cluster Survey 2015	 73 	 67 	 78 	 76 	 66 	 70 	 68 	 60 		
+Mongolia	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 78 	 78 	 78 	 78 	 77 	 75 	 82 	 80 	 70 	 81 
+Mongolia	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 63 	 63 	 63 	 70 	 55 	 47 	 63 	 71 	 77 	 64 
+Mongolia	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 87 									
+Mongolia	2013	MICS 2013-2014	Multiple Indicator Cluster Survey 2013	 70 	 74 	 66 	 75 	 60 	 57 	 57 		 80 	 80 
+Montenegro	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 89 									
+Morocco	1992	DHS 1992	Demographic and Health Survey 1992	 17 									
+Morocco	1997	Other NS 1997	Other NS 1997	 28 									
+Morocco	2004	DHS 2003-2004	Demographic and Health Survey 2003-2004	 38 	 42 	 34 	 50 	 25 					
+Morocco	2011	Other NS 2011	ENPSF 2011 (Prelim)	 70 			 85 	 56 	 50 	 68 	 77 	 82 	 91 
+Mozambique	1997	DHS 1997	Demographic and Health Survey 1997	 39 	 41 	 36 	 65 	 28 					
+Mozambique	2003	DHS 2003	Demographic and Health Survey 2003	 55 	 56 	 55 	 60 	 53 	 42 	 54 	 53 	 66 	 63 
+Mozambique	2008	MICS 2008	Multiple Indicator Cluster Survey 2008	 65 	 66 	 64 	 66 	 65 	 57 	 68 	 71 	 59 	 70 
+Mozambique	2011	DHS 2011	Demographic and Health Survey 2011	 50 	 51 	 50 	 64 	 44 	 44 	 39 	 50 	 51 	 67 
+Myanmar	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 48 	 50 	 46 	 66 	 45 	 41 	 42 	 51 	 56 	 59 
+Myanmar	2003	MICS 2003	Multiple Indicator Cluster Survey 2003	 66 	 64 	 67 	 69 	 65 					
+Myanmar	2010	MICS 2009-2010	Multiple Indicator Cluster Survey 2009-2010	 69 	 70 	 69 	 74 	 67 	 63 	 65 	 72 	 75 	 77 
+Myanmar	2016	DHS 2015-2016	Demographic and Health Survey 2015-2016	 58 	 65 	 48 		 53 	 45 	 62 			
+Namibia	1992	DHS 1992	Demographic and Health Survey 1992	 67 	 67 	 67 	 74 	 65 					
+Namibia	2000	DHS 2000	Demographic and Health Survey 2000	 53 	 54 	 53 	 63 	 49 					
+Namibia	2013	DHS 2013-2014	Demographic and Health Survey 2013	 68 									
+Nauru	2007	DHS 2007	Demographic and Health Survey 2007	 69 									
+Nepal	1996	DHS 1996	Demographic and Health Survey 1996	 18 	 18 	 18 	 29 	 18 					
+Nepal	2001	DHS 2001	Demographic and Health Survey 2001	 26 	 29 	 23 	 41 	 25 					
+Nepal	2006	DHS 2006	Demographic and Health Survey 2006	 43 	 42 	 44 	 54 	 42 	 36 	 36 	 44 	 50 	
+Nepal	2011	DHS 2011	Demographic and Health Survey 2011	 50 									
+Nepal	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 50 	 47 	 53 	 55 	 49 	 40 	 54 	 44 	 55 	
+Nepal	2016	DHS 2016	Demographic and Health Survey 2016	 85 	 84 	 86 	 90 	 81 					
+Nicaragua	1998	DHS 1998	Demographic and Health Survey 1998	 58 	 56 	 59 	 65 	 51 					
+Nicaragua	2001	DHS 2001	Demographic and Health Survey 2001	 58 	 58 	 57 	 65 	 51 					
+Niger	1992	DHS 1992	Demographic and Health Survey 1992	 14 									
+Niger	1998	DHS 1998	Demographic and Health Survey 1998	 26 									
+Niger	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 27 	 26 	 28 	 63 	 46 	 19 	 17 	 21 	 22 	 59 
+Niger	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 47 	 49 	 45 	 62 	 45 	 40 	 44 	 41 	 50 	 66 
+Niger	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 53 	 53 	 54 	 72 	 50 	 47 	 51 	 45 	 53 	 71 
+Niger	2015	ENISED 2015	Etude Nationale d’Evaluation d’Indicateurs Socio-Economiques et Démographiques 2015	 59 									
+Nigeria	1990	DHS 1990	Demographic and Health Survey 1990	 37 									
+Nigeria	2003	DHS 2003	Demographic and Health Survey 2003	 33 	 32 	 33 	 34 	 32 					
+Nigeria	2008	DHS 2008	Demographic and Health Survey 2008	 45 	 44 	 47 	 46 	 45 	 32 	 40 	 56 	 61 	
+Nigeria	2011	MICS 2011	Multiple Indicator Cluster Survey 2011	 40 	 39 	 41 	 53 	 36 	 28 	 34 	 47 	 45 	 75 
+Nigeria	2013	DHS 2013	Demographic and Health Survey 2013	 35 	 36 	 33 	 47 	 30 	 27 	 28 	 41 	 37 	
+Nigeria	2017	MICS 2016-2017	Multiple Indicator Cluster Survey 2016-2017	 24 	 25 	 23 	 20 	 26 	 23 	 28 	 20 	 22 	 28 
+Oman	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 56 	 57 	 55 	 55 	 62 					
+Pakistan	1991	DHS 1990-1991	Demographic and Health Survey 1990-1991	 66 	 68 	 65 	 76 	 63 	 49 	 67 	 65 	 70 	 85 
+Pakistan	2007	DHS 2006-2007	Demographic and Health Survey 2006-2007	 69 	 70 	 68 	 80 	 65 	 58 	 64 	 66 	 78 	 86 
+Pakistan	2013	DHS 2012-2013	Demographic and Health Survey 2012-2013	 64 	 66 	 62 	 75 	 60 	 57 	 58 	 60 	 74 	 79 
+Panama	2013	MICS 2013	Multiple Indicator Cluster Survey 2013	 82 	 84 	 80 	 95 	 63 	 56 	 94 			
+Papua New Guinea	1996	DHS 1996	Demographic and Health Survey 1996	 75 									
+Papua New Guinea	2006	DHS 2006	Demographic and Health Survey 2006	 63 	 66 	 57 	 73 	 62 					
+Paraguay	1990	DHS 1990	Demographic and Health Survey 1990	 51 									
+Paraguay	2016	MICS 2016	Multiple Indicator Cluster Survey 2016	 89 	 90 	 89 	 91 	 89 	 84 	 88 	 92 	 95 	 95 
+Peru	1992	DHS 1991-1992	Demographic and Health Survey 1991-1992	 33 									
+Peru	1996	DHS 1996	Demographic and Health Survey 1996	 46 									
+Peru	2000	DHS 2000	Demographic and Health Survey 2000	 58 	 57 	 59 	 64 	 51 					
+Peru	2004	DHS 2004	Demographic and Health Survey 2004	 68 	 67 	 69 	 70 	 66 	 71 	 58 	 64 	 73 	 76 
+Peru	2006	DHS 2004-2006	Demographic and Health Survey 2004-2006	 67 	 65 	 69 	 66 	 67 	 66 	 67 	 62 	 72 	 68 
+Peru	2009	DHS 2009	Demographic and Health Survey 2009	 72 	 72 	 72 	 70 	 75 	 72 	 78 	 63 	 76 	 74 
+Peru	2010	DHS 2010	Demographic and Health Survey 2010	 68 	 69 	 68 	 71 	 65 	 66 	 70 	 71 	 64 	
+Peru	2011	DHS 2011	Demographic and Health Survey 2011	 62 	 61 	 62 	 63 	 60 	 59 	 56 	 60 	 65 	 78 
+Peru	2012	DHS 2012	Demographic and Health Survey 2012	 59 	 59 	 60 	 58 	 61 	 58 	 61 	 61 	 59 	 56 
+Peru	2013	DHS 2013	Demographic and Health Survey 2013	 60 	 58 	 62 	 63 	 53 	 55 	 54 	 65 	 66 	 64 
+Peru	2014	DHS 2014	Demographic and Health Survey 2014	 60 	 60 	 60 	 62 	 56 	 59 	 55 	 58 	 66 	 73 
+Peru	2015	DHS 2015	Demographic and Health Survey 2015	 62 	 64 	 61 	 63 	 62 	 61 	 53 	 62 	 67 	 77 
+Philippines	1993	DHS 1993	Demographic and Health Survey 1993	 51 									
+Philippines	1998	DHS 1998	Demographic and Health Survey 1998	 58 									
+Philippines	2003	DHS 2003	Demographic and Health Survey 2003	 55 	 55 	 54 	 63 	 49 					
+Philippines	2008	DHS 2008	Demographic and Health Survey 2008	 50 	 47 	 55 	 54 	 47 					
+Philippines	2013	DHS 2013	Demographic and Health Survey 2013	 64 									
+Republic of Moldova	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 78 									
+Republic of Moldova	2005	DHS 2005	Demographic and Health Survey 2005	 60 	 59 	 61 	 67 	 53 	 42 	 46 	 73 	 57 	 68 
+Republic of Moldova	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 79 									
+Rwanda	1992	DHS 1992	Demographic and Health Survey 1992	 30 									
+Rwanda	2000	DHS 2000	Demographic and Health Survey 2000	 16 	 16 	 15 	 24 	 14 					
+Rwanda	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 20 	 20 	 20 		 20 	 10 	 18 	 19 	 31 	 57 
+Rwanda	2005	DHS 2005	Demographic and Health Survey 2005	 28 	 28 	 28 	 41 	 26 	 23 	 27 	 25 	 23 	 43 
+Rwanda	2008	DHS (Interim) 2007-2008	Demographic and Health Survey 2007-2008	 28 	 31 	 25 	 38 	 26 	 16 	 23 	 25 	 37 	 43 
+Rwanda	2010	DHS 2010	Demographic and Health Survey 2010	 50 	 50 	 51 	 76 	 45 	 40 	 50 	 49 		 75 
+Rwanda	2015	DHS 2014-2015	Demographic and Health Survey 2014-2015	 54 	 59 	 49 	 60 	 53 	 45 	 55 	 58 	 55 	 65 
+Samoa	2009	DHS 2009	Demographic and Health Survey 2009	 64 	 63 	 64 	 55 	 66 	 61 	 65 	 67 	 56 	
+Samoa	2014	DHS 2014	Demographic and Health Survey 2014	 78 									
+Sao Tome and Principe	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 47 	 46 	 46 	 39 	 57 					 35 
+Sao Tome and Principe	2009	DHS 2008-2009	Demographic and Health Survey 2008-2009	 75 	 70 	 80 		 77 					
+Sao Tome and Principe	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 69 	 71 	 66 	 67 	 74 					
+Senegal	1993	DHS 1992-1993	Demographic and Health Survey 1992-1993	 31 	 37 	 28 	 30 	 31 					
+Senegal	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 27 	 30 	 23 	 30 	 26 	 20 	 23 	 36 	 28 	 33 
+Senegal	2005	DHS 2005	Demographic and Health Survey 2005	 47 	 49 	 45 	 54 	 41 	 35 	 38 	 42 	 57 	 61 
+Senegal	2011	DHS-MICS 2010-2011	Demographic and Health Survey, Multiple Indicator Cluster Survey 2010-2011	 50 	 52 	 48 	 61 	 38 	 32 	 38 	 56 	 48 	 69 
+Senegal	2013	DHS (Continuous) 2012-2013	Demographic and Health Survey 2012-2013	 53 	 55 	 52 	 63 	 44 	 37 				
+Senegal	2014	DHS 2014	Demographic and Health Survey 2014	 42 	 49 	 34 	 40 	 47 	 48 				
+Senegal	2015	DHS (Continuous) 2015	Demographic and Health Survey 2015	 48 	 53 	 43 	 55 	 44 	 40 	 56 			
+Serbia	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 93 	 94 	 91 	 91 	 95 	 89 	 95 	 92 	 95 	 89 
+Serbia	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 90 	 89 	 91 	 90 	 89 					 96 
+Sierra Leone	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 50 	 51 	 48 	 57 	 48 	 35 	 44 	 57 	 61 	
+Sierra Leone	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 48 	 50 	 45 	 46 	 48 	 43 	 44 	 53 	 55 	 42 
+Sierra Leone	2008	DHS 2008	Demographic and Health Survey 2008	 46 	 49 	 43 	 50 	 45 	 39 	 46 	 49 	 48 	 46 
+Sierra Leone	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 74 	 72 	 75 	 72 	 74 	 72 	 75 	 76 	 76 	 63 
+Sierra Leone	2013	DHS 2013	Demographic and Health Survey 2013	 72 	 71 	 73 	 73 	 71 	 68 	 72 	 75 	 70 	 75 
+Solomon Islands	2007	DHS 2007	Demographic and Health Survey 2007	 73 									
+Solomon Islands	2015	DHS 2015	Demographic and Health Survey 2015	 79 	 85 	 73 	 87 	 77 					
+Somalia	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 13 	 14 	 11 	 24 	 8 	 5 	 8 	 13 	 19 	 28 
+South Africa	1998	DHS 1998	Demographic and Health Survey 1998	 75 	 75 	 75 	 78 	 73 					
+South Africa	2003	DHS 2003	Demographic and Health Survey 2003	 65 	 64 	 66 	 65 	 65 					
+South Africa	2016	DHS KIR 2016	Demographic and Health Survey Key Indicators Report 2016	 88 	 87 		 88 						
+South Sudan	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 48 	 48 	 47 	 59 	 44 	 33 	 46 	 43 	 53 	 66 
+Sri Lanka	2007	DHS 2006-2007	Demographic and Health Survey 2006-2007	 58 	 60 	 56 		 58 	 70 	 57 	 60 	 56 	
+State of Palestine	2000	Other NS 2000	Health Survey 2000	 65 									
+State of Palestine	2010	Other NS 2010	Palestinian Family Survey 2010	 65 	 67 	 62 	 67 	 65 	 58 	 65 	 64 	 70 	 75 
+State of Palestine	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 77 	 79 	 74 	 77 	 73 	 78 	 67 	 77 	 80 	 82 
+Sudan	2010	SHHS 2010	Sudan Household and Health Survey 2010	 56 	 57 	 55 	 67 	 52 	 40 	 52 	 65 	 69 	 71 
+Sudan	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 48 	 48 	 49 	 55 	 46 	 27 	 45 	 62 	 54 	 63 
+Sudan (pre-cession)	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 57 	 59 	 56 	 67 	 50 	 42 	 51 	 56 	 72 	 78 
+Suriname	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 58 	 56 	 60 	 49 	 61 					
+Suriname	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 74 	 76 	 69 	 81 	 54 					
+Suriname	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 76 				 75 					
+Swaziland	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 60 	 58 	 62 	 56 	 60 	 63 	 60 	 62 	 59 	 66 
+Swaziland	2007	DHS 2006-2007	Demographic and Health Survey 2006-2007	 73 	 71 	 77 		 72 	 66 	 74 			
+Swaziland	2010	MICS 2010	Multiple Indicator Cluster Survey 2010	 58 	 57 	 58 	 61 	 57 	 62 	 46 	 57 	 58 	
+Swaziland	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 60 	 62 	 58 	 53 	 63 					
+Syrian Arab Republic	2002	Other NS 2002	Other NS 2002	 66 									
+Syrian Arab Republic	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 77 	 80 	 73 	 81 	 72 	 72 	 67 	 81 	 79 	 86 
+Tajikistan	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 51 	 45 	 55 	 40 	 54 					
+Tajikistan	2005	MICS 2005	Multiple Indicator Cluster Survey 2005	 64 	 60 	 69 	 58 	 67 	 81 	 74 	 37 	 66 	 75 
+Tajikistan	2012	DHS 2012	Demographic and Health Survey 2012	 63 									
+Thailand	2006	MICS 2005-2006	Multiple Indicator Cluster Survey 2005-2006	 84 	 83 	 85 	 80 	 85 	 85 	 88 	 87 	 76 	 78 
+Thailand	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 83 	 78 	 88 	 79 	 86 					
+Thailand	2016	MICS 2015-2016	Multiple Indicator Cluster Survey 2015-2016	 80 	 76 	 84 	 85 	 76 					
+The former Yugoslav Republic of Macedonia	2006	MICS 2005-2006	Multiple Indicator Cluster Survey 2005-2006	 93 	 95 	 89 	 94 	 92 	 93 	 96 	 90 	 86 	
+Timor-Leste	2002	MICS 2002	Multiple Indicator Cluster Survey 2002	 57 									
+Timor-Leste	2010	DHS 2009-2010	Demographic and Health Survey 2009-2010	 71 	 69 	 73 	 74 	 69 					
+Togo	1998	DHS 1998	Demographic and Health Survey 1998	 26 	 28 	 25 	 46 	 21 					
+Togo	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 30 	 35 	 24 	 62 	 25 					
+Togo	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 23 	 23 	 23 	 24 	 22 	 18 	 24 	 6 	 33 	 28 
+Togo	2010	MICS 2010-2011	Multiple Indicator Cluster Survey 2010	 32 	 35 	 30 		 25 	 20 	 26 			
+Togo	2014	DHS 2013-2014	Demographic and Health Survey 2013-2014	 49 	 49 	 48 	 61 	 43 	 42 				
+Trinidad and Tobago	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 74 									
+Trinidad and Tobago	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 74 	 77 	 70 							
+Tunisia	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 43 									
+Tunisia	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 59 	 60 	 57 	 64 	 48 					
+Tunisia	2012	MICS 2011-2012	Multiple Indicator Cluster Survey 2011-2012	 60 	 61 	 58 	 63 	 53 	 46 	 63 	 56 	 68 	 74 
+Turkey	1993	DHS 1993	Demographic and Health Survey 1993	 37 	 36 	 39 	 44 	 30 					
+Turkmenistan	2000	DHS 2000	Demographic and Health Survey 2000	 51 	 50 	 52 	 61 	 31 					
+Turkmenistan	2016	MICS 2015-2016	Multiple Indicator Cluster Survey 2015-2016	 59 	 61 	 57 	 62 	 58 			 60 	 64 	 71 
+Uganda	1995	DHS 1995	Demographic and Health Survey 1995	 61 									
+Uganda	2001	DHS 2000-2001	Demographic and Health Survey 2000-2001	 67 	 68 	 65 	 80 	 65 					
+Uganda	2006	DHS 2006	Demographic and Health Survey 2006	 73 	 76 	 71 	 68 	 74 	 80 	 68 	 70 	 73 	 78 
+Uganda	2011	DHS 2011	Demographic and Health Survey 2011	 79 	 75 	 83 	 81 	 78 	 78 	 79 	 78 	 77 	 82 
+Uganda	2016	DHS 2016	Demographic and Health Survey 2016	 80 	 80 	 81 	 82 	 80 	 80 	 77 	 78 	 85 	 84 
+Ukraine	2012	MICS 2012	Multiple Indicator Cluster Survey 2012	 92 	 93 	 91 	 94 						
+United Republic of Tanzania	1992	DHS 1991-1992	Demographic and Health Survey 1991-1992	 65 									
+United Republic of Tanzania	1996	DHS 1996	Demographic and Health Survey 1996	 70 	 70 	 69 	 81 	 67 					
+United Republic of Tanzania	1999	DHS 1999	Demographic and Health Survey 1999	 68 									
+United Republic of Tanzania	2005	DHS 2004-2005	Demographic and Health Survey 2004-2005	 59 	 62 	 56 	 68 	 58 	 52 	 61 	 65 	 55 	 67 
+United Republic of Tanzania	2010	DHS 2010	Demographic and Health Survey 2010	 71 	 73 	 68 	 86 	 65 	 57 	 75 	 56 	 78 	 93 
+United Republic of Tanzania	2016	DHS MIS 2015-2016	Demographic and Health Survey 2015-2016	 55 	 52 	 59 	 64 	 50 	 37 	 49 	 48 	 62 	 75 
+Uruguay	2013	MICS 2012-2013	Multiple Indicator Cluster Survey 2012-2013	 91 	 98 	 81 	 91 						
+Uzbekistan	1996	DHS 1996	Demographic and Health Survey 1996	 87 	 85 	 92 	 96 	 69 					
+Uzbekistan	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 68 	 71 	 63 	 74 	 65 					
+Vanuatu	2013	DHS 2013	Demographic and Health Survey 2013	 72 									
+Venezuela (Bolivarian Republic of)	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 72 	 74 	 70 			 76 	 68 	 59 	 91 	 77 
+Viet Nam	1997	DHS 1997	Demographic and Health Survey 1997	 69 	 72 	 65 	 76 	 68 					
+Viet Nam	2000	MICS 2000	Multiple Indicator Cluster Survey 2000	 60 	 61 	 60 	 60 	 60 	 52 	 58 	 73 	 76 	
+Viet Nam	2002	DHS 2002	Demographic and Health Survey 2002	 71 	 76 	 65 	 75 	 71 					
+Viet Nam	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 83 	 85 	 80 		 80 					
+Viet Nam	2011	MICS 2010-2011	Multiple Indicator Cluster Survey 2011	 73 	 70 	 77 		 73 					
+Viet Nam	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 81 	 85 	 76 		 81 					
+Yemen	1992	DHS 1991-1992	Demographic and Health Survey 1991-1992	 28 	 30 	 27 	 61 	 24 					
+Yemen	1997	DHS 1997	Demographic and Health Survey 1997	 32 	 33 	 31 	 43 	 29 					
+Yemen	2003	FHS 2003	Family Health Survey 2003	 47 									
+Yemen	2006	MICS 2006	Multiple Indicator Cluster Survey 2006	 44 	 45 	 42 	 56 	 40 	 40 	 39 	 43 	 53 	 49 
+Yemen	2013	DHS 2013	Demographic and Health Survey 2013	 34 	 41 	 27 	 38 	 33 	 31 	 32 	 35 	 35 	 42 
+Zambia	1992	DHS 1992	Demographic and Health Survey 1992	 62 	 61 	 62 	 73 	 54 					
+Zambia	1996	DHS 1996	Demographic and Health Survey 1996	 71 	 68 	 73 	 78 	 66 					
+Zambia	2002	DHS 2001-2002	Demographic and Health Survey 2001-2002	 69 	 68 	 70 	 73 	 67 					
+Zambia	2007	DHS 2007	Demographic and Health Survey 2007	 68 	 68 	 69 	 67 	 69 	 78 	 64 	 64 	 78 	
+Zambia	2014	DHS 2013-2014	Demographic and Health Survey 2013-2014	 70 	 74 	 66 	 80 	 66 	 67 	 66 	 67 	 75 	 80 
+Zimbabwe	2006	DHS 2005-2006	Demographic and Health Survey 2005-2006	 25 	 20 	 31 		 24 	 9 	 34 	 31 		
+Zimbabwe	2009	MICS 2009	Multiple Indicator Cluster Survey 2009	 43 	 41 	 44 	 43 	 43 	 43 	 42 	 44 	 39 	 46 
+Zimbabwe	2011	DHS 2010-2011	Demographic and Health Survey 2010-2011	 48 	 41 	 55 		 49 	 52 				
+Zimbabwe	2014	MICS 2014	Multiple Indicator Cluster Survey 2014	 59 	 59 	 59 	 61 	 58 	 55 	 61 	 55 	 63 	 61 
+Zimbabwe	2015	DHS 2015	Demographic and Health Survey 2015	 51 	 47 	 55 	 69 	 45 	 52 				
