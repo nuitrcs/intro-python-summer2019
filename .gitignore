@@ -94,6 +94,8 @@ venv.bak/
 .spyderproject
 .spyproject
 
+*.idea*
+
 # Rope project settings
 .ropeproject
 
@@ -102,3 +104,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+
+examples/temp.txt
+exercises/colors.txt
+working.py
