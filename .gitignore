@@ -110,3 +110,5 @@ venv.bak/
 examples/temp.txt
 exercises/colors.txt
 working.py
+
+*.docx

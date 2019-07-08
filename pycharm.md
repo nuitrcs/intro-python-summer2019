@@ -2,7 +2,7 @@
 
 When you open PyCharm, you may be prompted as to whether you want to import settings.  If prompted and you've used PyCharm before, it's your choice what you choose.  If you have not used PyCharm, you can choose not to import anything.
 
-The next screen that may come up is about preference.  Here's what it looked like on my Mac:
+The next screen that may come up is about preferences.  Here's what it looked like on my Mac:
 
 ![](images/pycharm1.png)
 
