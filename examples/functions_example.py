@@ -5,6 +5,9 @@
 
 # NOTE: Normally we'd put all of our function definitions up top together
 
+# To get into the details of Python's "Pass by object reference" approach,
+# see https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/
+
 
 # Here's the syntax to create a function with no input and no output;
 def hello():
@@ -26,7 +29,7 @@ hello2("Christina")
 hello2(name="Marcia")
 
 
-# Instead of doing something, let's have our function return output
+# Instead of just doing something (printing), let's have our function return output
 def hello3(name):
     return "Hello again {}!".format(name)
 
@@ -75,15 +78,17 @@ print("name1 after the function has the value {}".format(name1))
 print("names after the function has the value {}".format(names))
 
 
-# now, instead of changing names completely, just change one element;
+# now, instead of changing names completely, just change one element or append
 # this changes the names list!
 def hello7(names):
     names[0] = "Grace"
+    names.append("Debbie")
     print("In the function hello7, names has values: ")
     print(names)
 
 
 names = ["Bob", "Frank", "John"]
+print("names before the function hello7 has the value {}".format(names))
 hello7(names)
 print("names after the function hello7 has the value {}".format(names))
 

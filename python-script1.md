@@ -4,12 +4,6 @@ This is the material we'll cover during the first part of the workshop.  We may 
 
 We're working interactively with the Python interpreter to start.
 
-On Windows, click Start -> Anaconda3 -> Anaconda Prompt, then type `python` at
-the prompt to start the interpreter.
-
-On Mac, open a Terminal window and type `python` at the prompt.  Make sure it says Python 3.6 or 3.7 at the top.  Otherwise, there is a console built into other applications.  Open Spyder from the Anaconda Navigator application and use the Python console that's in the bottom right by default.  Or open PyCharm, and there's a Python console available from the bottom.  
-
-
 ## Python as a Calculator
 
 You can type expressions and get the output immediately
@@ -60,6 +54,17 @@ not True
 not False
 not 3 == 3.1
 ```
+
+## Functions
+
+There are a few functions built into Python: https://docs.python.org/3/library/functions.html 
+
+```python
+max(2, 3)
+abs(-4)
+```
+
+We call functions with the name, with input arguments in parentheses.  
 
 
 ## Variables
@@ -189,6 +194,8 @@ long_text = """This is a multiline
 print(long_text)
 ```
 
+Triple-quoted strings are also used as multi-line comments in Python scripts (because they have no effect on the script).  
+
 We can join, or concatenate, strings with `+`:
 
 ```python
@@ -202,6 +209,12 @@ When we print them, we can comma separate values, and they are joined with a spa
 
 ```python
 print(prefix, suffix)
+```
+
+Although we can change that:
+
+```python
+print(prefix, suffix, sep="\n")
 ```
 
 And we can compare strings too based on alphabetical order:
@@ -225,7 +238,7 @@ string_var = 'abcdefg'
 len(string_var)
 ```
 
-But strings also have functions that are called on the string with dot notation.  If you're familiar with other languages, everything in Python is an object.  
+But strings also have functions (methods) that are called on the string with dot notation.  If you're familiar with other languages, everything in Python is an object.  
 
 Here, the string value itself is implicitly the first argument to the function.  The function is a property of the string object.
 
@@ -451,7 +464,7 @@ primes + more_primes
 This appends the elements of one list to the other list.  What if we just want to add a single value, not a whole list?
 
 ```python
-primes + 39
+primes + 39  # error
 ```
 
 You can add a single element to a list with `append()`.  THIS CHANGES THE LIST!

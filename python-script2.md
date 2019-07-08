@@ -98,19 +98,19 @@ It gives us a list of file names in the directory.  We're going to want to proce
 import os
 
 for filename in os.listdir("pdb/"):
-	print(filename)
+    print(filename)
 ```
 
 If you want to loop through a sequence of integers instead of values in a list, use `range()` which returns something called an iterable:
 
 ```python
 for i in range(3):
-	print(i)
-	
+    print(i)
+    
 print(range(3))
-	
+    
 for i in range(2, 8):
-	print(i)
+    print(i)
 ```
 
 Open `exercises/forloop1.py`.  
@@ -126,7 +126,7 @@ We had a list of each of the files in the directory.
 import os
 
 for filename in os.listdir("pdb/"):
-	print(filename)
+    print(filename)
 ```
 
 It included some files that weren't .pdb files.  How do we select just the ones we want?  With an `if` statment.
@@ -135,8 +135,8 @@ It included some files that weren't .pdb files.  How do we select just the ones 
 import os
 
 for filename in os.listdir("pdb/"):
-	if filename.endswith(".pdb"):
-		print(filename)
+    if filename.endswith(".pdb"):
+        print(filename)
 ```
 
 This uses a string function `endswith()` that returns True if the string ends with the specified value.
@@ -162,9 +162,9 @@ import os
 datadirectory = "pdb"
 
 for filename in os.listdir(datadirectory):
-	if filename.endswith(".pdb"):
-		with open(os.path.join(datadirectory, filename)) as pdbfile:
-			print(pdbfile.readlines())
+    if filename.endswith(".pdb"):
+        with open(os.path.join(datadirectory, filename)) as pdbfile:
+            print(pdbfile.readlines())
 ```
 
 Open `examples/file_example.py`

@@ -4,24 +4,15 @@ These are during-workshop exercises that correspond to the [first Python script]
 ## Calculator and Variables
 
 
-### A
-
 Use Python to find the answer:
 
 ![square root of 17/42 + 0.45 times 3.1](images/equation.png)
 
 Save the answer to a variable called `result`.  Display the value of `result`.
 
-### B
+Increment the value of `result` by 5.
 
-If you run the code below, what will the output be? Try to figure it out before running it.
-
-```python
->>> first, second = 'Grace', 'Hopper'
->>> third, fourth = second, first
->>> print(third, fourth)
-```
-If you don't know who Grace Hopper is, [take a look](https://en.wikipedia.org/wiki/Grace_Hopper).
+Test if `result` is greater than or equal to 10 (get a `True` or `False` value as output).
 
 
 ## Strings
@@ -48,12 +39,12 @@ an open eye
 
 Create variables `firstname` and `lastname` (or you may still have them defined from above).  Insert them into a sentence that will read "My name is **firstname lastname**" (with the values of the variables) using the string `format()` function.
 
- 
+  89\ 
 
 
 ## Lists
 
-Make a list with 3 of your favorite words.  Referencing each word using its index, print the following sentence with each word inserted in turn: "One of my favorite words is \_\_\_."  (Hint: remember how to concatenate strings?)
+Make a list with 3 of your favorite words.  Referencing each word using its index, print the following sentence with each word inserted in turn: "One of my favorite words is \_\_\_."  (Hint: remember how to concatenate or format strings?)
 
 Replace the middle element of the list with a new word.
 
@@ -92,7 +83,7 @@ first list.
 
 Fix the errors in the code below.
 
-```python
+```
 2010data = [3, 5, 7, 9, 11]
 print("The first 2010 data value is " + 2010data[0])
 
