@@ -1,3 +1,8 @@
+# Remember: to run this in PyCharm, right-click and choose to run this file,
+# or use the Run option at the top
+
+
+
 age = 20
 hometown = "Dayton"
 

@@ -1,3 +1,7 @@
+# Remember: to run this in PyCharm, right-click and choose to run this file,
+# or use the Run option at the top
+
+
 import os
 
 # working directory is where the file is

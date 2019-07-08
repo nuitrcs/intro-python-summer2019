@@ -102,6 +102,22 @@ Width
 
 [Exercise](python-exercises1.md#calculator-and-variables)
 
+### Addition Assignment
+
+There's a shortcut when we want to add (or subtract or multiply) a variable by a value and then assign the result back to the variable.  Instead of 
+
+```python
+x = 1
+x = x + 2
+```
+
+We can do
+
+```python
+x = 1
+x += 2
+```
+
 ### Multiple Assignments
 
 Python allows you to assign a value to multiple variables in one line in two different ways.  
@@ -520,6 +536,14 @@ list2 = ["apple", "banana"]
 
 [Exercise](python-exercises1.md#lists)
 
+### Printing Lists
+
+Sometimes you want to join the items of a list together all in a single string.  There's a string function that takes a list of strings as input, and joins the elements together with the string as the separator:
+
+```python
+my_list = ["apple", "banana", "chocolate"]
+",".join(my_list)
+```
 
 
 

@@ -61,7 +61,15 @@ Run it.  Right-click and choose Run 'test_requests.py' or from the Run menu at t
 
 [PDB Files]("pdb/")
 
-We're going to build up code to process these files.  
+We're going to build up code to process these files.  What do we need to do?
+
+* Figure out what files exist and take one at a time (loop)
+* Open and process each file (files)
+* Look at each line in a file (loop)
+* If it has information we want, keep it (if statement)
+* Extract compound name (work with strings)
+* If it doesn't match our format, clean it up (if statement): see glycol vs. ammonia
+* Write the output to a new file (files)
 
 ## For Loops
 
@@ -168,14 +176,33 @@ Open `exercises/file_exercise.py`
 Open `process_pdb.py`.
 
 
+## Writing functions
+
+When might we pull out code into a function?
+
+* Repeating the same code with just slight changes
+* It's a discrete process and the code will be clearer 
+* We might want to reuse it or change a fixed value
+* We'll need to use the same code again in a different process
+* Isolate code for debugging
+
+Open `examples/functions_example.py`
+
+Open `exercises/functions_exercise.py`
 
 
-## Notes
+
+See `process_pdb_function.py`
 
 
-* Demonstrate functions pass by reference
-* Show calling functions with named arguments
-* Show objects with member variables (in addition to methods)
+## Challenge Exercise
+
+Modify `process_pdb_function.py` (or `process_pdb.py`) to also extract and save the author info and date from each file (include it in the output file).  The AUTHOR line has the author name and a date.  
+
+Hint: Look at the `isdigit()` function of a string: https://docs.python.org/3/library/stdtypes.html#str.isdigit 
+
+For an answer (there are multiple ways to do this!), see `exercises/author_info_answer.py`
+
 
 
 

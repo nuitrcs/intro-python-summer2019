@@ -1,3 +1,9 @@
+# IF exercises
+
+# Remember: to run this in PyCharm, right-click and choose to run this file,
+# or use the Run option at the top
+
+
 # Remember the format of if statements
 age = 20
 if age >= 18:

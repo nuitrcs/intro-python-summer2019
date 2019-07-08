@@ -1,3 +1,10 @@
+# FILES exercises
+
+# Remember: to run this in PyCharm, right-click and choose to run this file,
+# or use the Run option at the top
+
+
+
 # Create a file called colors.txt and write each color
 # in the color list to the file, one on each line.
 # Don't forget the \n newline character

@@ -10,6 +10,27 @@ import os
 # where is the data we want to process
 data_directory = "pdb/"
 
+
+# pull out a function to turn text line into data cells
+def process_line(line):
+
+    # split line into components
+    processed = line.split()
+
+    # some files have   1.00  0.00 at the end of the data lines
+    # remove these last two items because they aren't needed
+    if line.endswith("  1.00  0.00\n"):
+        return processed[:-2]
+
+    return processed
+
+
+def format_line(filename, molecule, data, sep=","):
+    # quoting molecule name in case of comma in the name
+    return filename + sep + '"' + molecule + '"' + sep + sep.join(data) + "\n"
+
+
+
 # open an output file to write our results to
 with open(os.path.join(data_directory, 'combined_pdb.csv'), 'w') as outputfile:
 
@@ -35,21 +56,10 @@ with open(os.path.join(data_directory, 'combined_pdb.csv'), 'w') as outputfile:
                         # Remove white spaces from beginning and end of what's left
                         molecule_name = line.replace("COMPND", "").strip()
 
-                        # add quotes around the molecule name because it might contain a comma
-                        molecule_name = '"' + molecule_name + '"'
-
                     elif line.startswith("ATOM"):  # good data lines
 
-                        # split line into components
-                        processed = line.split()
-
-                        # some files have   1.00  0.00 at the end of the data lines
-                        # remove these last two items because they aren't needed
-                        if line.endswith("  1.00  0.00\n"):
-                            processed = processed[:-2]
-
-                        # change spaces in the line to commas
-                        processed = ",".join(processed)
+                        # separate text line into fields
+                        processed = process_line(line)
 
                         # add the line to the output, comma separated
-                        outputfile.write(pdbfilename + "," + molecule_name + "," + processed + "\n")
+                        outputfile.write(format_line(pdbfilename, molecule_name, processed))

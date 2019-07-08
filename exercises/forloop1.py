@@ -1,3 +1,8 @@
+# FOR LOOP exercises
+
+# Remember: to run this in PyCharm, right-click and choose to run this file,
+# or use the Run option at the top
+
 
 # defining a list with some values
 colors = ["red", "orange", "yellow", "green", "blue", "purple", "pink"]
