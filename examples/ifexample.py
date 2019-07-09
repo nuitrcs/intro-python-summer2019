@@ -2,9 +2,11 @@
 # or use the Run option at the top
 
 
-
 age = 20
 hometown = "Dayton"
+
+print("age has value {}".format(age))
+print("hometown has value {}".format(hometown))
 
 print("Section 1")
 

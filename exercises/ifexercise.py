@@ -36,8 +36,7 @@ ammonialines = ["COMPND      Ammonia",
 
 # We need to extract the compound name and data lines.
 # Loop through each line in ammonialines.
-# If the line starts with COMPND, save the line to
-# the compound variable.
+# If the line starts with COMPND, save the line to the compound variable.
 # If the line starts with ATOM, append it to datalines.
 # Otherwise do nothing.
 # Hint 1: line.startswith("COMPND")
@@ -54,7 +53,7 @@ datalines = []
 # look at what we saved
 print("The compound line is:", compound)
 # the below is a way to concatenate elements of a list
-# in a string with a separator - the syntax is a little odd
+# in a string with a separator
 print("Data lines:")
 print("\n".join(datalines))
 

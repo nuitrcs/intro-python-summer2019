@@ -18,6 +18,8 @@ Choose Open and then navigate to the folder where you downloaded the files from 
 
 To see what version of Python is associated with the project you have open (what version of Python will be used to run your code), open the Python Console from the link at the bottom of the window, or from the top menu, View > Tool Windows > Python Console.
 
+![](images/PyCharmLayout.png)
+
 In the console that opens, at the `>>>` prompt, type 
 
 ```python

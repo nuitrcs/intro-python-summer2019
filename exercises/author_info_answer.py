@@ -29,6 +29,8 @@ def format_line(output, sep=","):
     # NOTE: this actually changes the values in the list passed in!
     # But we're ok with that in this case
     for i in range(len(output)):
+        # we're going to index into the list here instead of looping through the
+        # elements directly so that we can change the values of the list.
         if sep in output[i]:
             output[i] = '"' + output[i] + '"'
     return sep.join(output) + "\n"

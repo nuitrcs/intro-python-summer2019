@@ -54,37 +54,45 @@ def hello5(name2):
     print("Hello 5 {}".format(name2))
 
 
-name2 = "Ming"
 hello5("Adrian")
 
 
 # functions can't change immutable inputs, but they can change mutable inputs,
 # such as the individual elements of a list
-def hello6(onename, names):
+def hello6(onename, nameslist):
+
+    # change the value of onename
     onename = "Linda"
     print("Hola {}".format(onename))
-    names = ["Abby", "Becky", "Carlos"]
-    for name in names:
+
+    # change the entire "names" list
+    nameslist = ["Abby", "Becky", "Carlos"]
+
+    for name in nameslist:
         print("Howdy {}!".format(name))
 
     # for good measure, also change an individual element
-    names[0] = "Alistair"
+    nameslist[0] = "Alistair"
 
 
 name1 = "Bob"
 names = ["Bob", "Frank", "John"]
+print("name1 before the function hello6 has the value {}".format(name1))
+print("names before the function helllo6 has the value {}".format(names))
+
 hello6(name2, names)
-print("name1 after the function has the value {}".format(name1))
-print("names after the function has the value {}".format(names))
+
+print("name1 after the function hello6 has the value {}".format(name1))
+print("names after the function helllo6 has the value {}".format(names))
 
 
-# now, instead of changing names completely, just change one element or append
+# now, instead of changing names completely, just change one element or append;
 # this changes the names list!
-def hello7(names):
-    names[0] = "Grace"
-    names.append("Debbie")
-    print("In the function hello7, names has values: ")
-    print(names)
+def hello7(nameslist):
+    nameslist[0] = "Grace"
+    nameslist.append("Debbie")
+    print("In the function hello7, nameslist has values: ")
+    print(nameslist)
 
 
 names = ["Bob", "Frank", "John"]
@@ -94,8 +102,8 @@ print("names after the function hello7 has the value {}".format(names))
 
 
 # We saw how to return values.  Returning a value ends the execution of the function.
-def hello8(name):
-    if name == "Casey":
+def hello8(onename):
+    if onename == "Casey":
         return "Good morning Casey!"
     return "Good morning person whose name isn't Casey."
 
@@ -105,8 +113,8 @@ print(hello8("Casey"))
 
 
 # You might see a return statement without a value: it ends execution of the function
-def hello9(name):
-    if name == "Casey":
+def hello9(onename):
+    if onename == "Casey":
         print("Good morning Casey!")
         return
     print("Good morning person whose name isn't Casey.")
@@ -127,7 +135,7 @@ print(increment(1))
 print(increment(1, 2))
 print(increment(1, b=5))
 
-# we can switch order of arguments
+# we can switch order of arguments if we name them
 print(increment(b=5, a=1))
 
 # but we can't have named arguments before unnamed ones.  The below would give an error:
@@ -135,17 +143,16 @@ print(increment(b=5, a=1))
 # print(increment(a=5, 2))
 
 
-# We can return multiple values, and save the results with multiple assignment
+# We can return multiple values (the below creates a tuple), and save the results with multiple assignment
 def increment_both(a, b, step=5):
     return a + step, b + step
 
 
-# Incrementing two values
+# Unpacking the tuple result into two variables
 x, y = increment_both(100, 200)
 print(x, y)
 
-
-# This is really creating and unpacking something called a tuple, which is basically an immutable list
+# Or keeping the return values together in a single tuple
 z = increment_both(100, 200)
 print(z)
 

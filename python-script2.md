@@ -101,19 +101,9 @@ for filename in os.listdir("pdb/"):
     print(filename)
 ```
 
-If you want to loop through a sequence of integers instead of values in a list, use `range()` which returns something called an iterable:
+See `examples/for_loops.py`
 
-```python
-for i in range(3):
-    print(i)
-    
-print(range(3))
-    
-for i in range(2, 8):
-    print(i)
-```
-
-Open `exercises/forloop1.py`.  
+Open `exercises/forloop_exercise.py`.  
 
 
 ## If Statements
@@ -200,6 +190,8 @@ See `process_pdb_function.py`
 Modify `process_pdb_function.py` (or `process_pdb.py`) to also extract and save the author info and date from each file (include it in the output file).  The AUTHOR line has the author name and a date.  
 
 Hint: Look at the `isdigit()` function of a string: https://docs.python.org/3/library/stdtypes.html#str.isdigit 
+
+Advice: write out the steps you need to do first, then write the code to do those steps.  
 
 For an answer (there are multiple ways to do this!), see `exercises/author_info_answer.py`
 
