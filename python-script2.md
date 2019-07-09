@@ -101,6 +101,8 @@ for filename in os.listdir("pdb/"):
     print(filename)
 ```
 
+The indentation above matters!
+
 See `examples/for_loops.py`
 
 Open `exercises/forloop_exercise.py`.  

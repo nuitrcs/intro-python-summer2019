@@ -16,7 +16,10 @@ with open(os.path.join(data_directory, 'combined_pdb.csv'), 'w') as outputfile:
     # process each file in the pdb directory
     for pdbfilename in os.listdir(data_directory):
 
-        # only process *.pdb files
+        # only process *.pdb files;
+        # we could use glob.glob() instead above to match just pdb files
+        # see https://docs.python.org/3/library/glob.html
+        # then we wouldn't need this
         if pdbfilename.endswith(".pdb"):
 
             # open each file to process it
