@@ -131,9 +131,9 @@ Google the last line of the error to find a solution.  Ask for help if you need.
 Run the following code.  Then write an expression to get the the age of patient 'a49283'.
 
 ```python
-patients = {'a38275': {'age': 42, 'admitted': '2019-01-03', test: False},
-            'a49283': {'age': 45, 'admitted': '2019-02-01', test: True},
-            'a92042': {'age': 34, 'admitted': '2019-01-10', test: True}}
+patients = {'a38275': {'age': 42, 'admitted': '2019-01-03', 'test': False},
+            'a49283': {'age': 45, 'admitted': '2019-02-01', 'test': True},
+            'a92042': {'age': 34, 'admitted': '2019-01-10', 'test': True}}
 ```
 
 
