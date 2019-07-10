@@ -17,8 +17,8 @@ Test if `result` is greater than or equal to 10 (get a `True` or `False` value a
 
 ## Strings
 
-* Create variables `firstname` and `lastname`.  
-* Join them together with a space in-between and save that in a variable called `fullname`.  
+* Create variables `firstname` and `lastname` and give them the appropriate values for your name.  
+* Join the variables together with a space in-between and save that in a variable called `fullname`.  
 * `print()` your full name.  
 * Then print your full name converted to all upper case.  
 * How many letters are in your name?  
