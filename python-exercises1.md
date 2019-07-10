@@ -39,7 +39,6 @@ an open eye
 
 Create variables `firstname` and `lastname` (or you may still have them defined from above).  Insert them into a sentence that will read "My name is **firstname lastname**" (with the values of the variables) using the string `format()` function.
 
-  89\ 
 
 
 ## Lists
